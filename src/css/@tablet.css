@@ -1,0 +1,31 @@
+.wrap {
+	font-size: 16px;		
+}
+.logo {
+	width: 90px;
+}
+.disk {
+	width: 150px; 
+ }
+.text-phrase {
+	display: block;
+	color:rgb(211, 193, 35);
+	font-size: 1.2em;
+}
+.aside {
+	top: 60px;
+}
+
+.slider__title {
+	padding:  15px 10px 25px 10px;
+	font-size: 1.7em;
+}
+
+.diplom__item {
+	width: 30%;
+}
+
+.diplom-image {
+	border: 5px solid #d3c123;
+	box-shadow: 7px -6px 2px #2c2b2b
+}

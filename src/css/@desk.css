@@ -1,0 +1,53 @@
+.wrap {
+	font-size: 20px;	
+		
+}
+ .header {
+	padding: 10px 40px; 
+ }
+.menu-burger {
+	display: none;
+}
+.logo {
+	width: 150px;
+	border: 5px solid #d3c123;
+	box-shadow: 7px -6px 2px #2c2b2b;
+	border-radius: 49%;
+}
+.disk {
+	width: 250px; 
+ }
+ .about-me {
+	 padding-left: 70px;
+	 line-height: 36.5px;
+ }
+.text-phrase {
+	display: block;
+	padding: 50px 0 0 20px;
+	color:rgb(211, 193, 35);
+	font-size: 1.2em;
+}
+.aside {
+	top: 60px;
+	padding: 0 40px;
+}
+
+.slider__title {
+	padding:  15px 10px 25px 10px;
+	font-size: 1.7em;
+}
+
+.diplom__item {
+	width: 24%;
+}
+
+.diplom-image {
+	border: 5px solid #d3c123;
+	box-shadow: 7px -6px 2px #2c2b2b
+}
+
+@media (min-width: 1200px) {
+	.diplom__item {
+		width: 15%;
+	}
+}
